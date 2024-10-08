@@ -196,6 +196,7 @@ int main(void)
     Lcd_cursor(&lcd, 1,1);
     Lcd_string(&lcd, "212223240020");
 }
+```
 ## Output screen shots of proteus:
 
  ![image](https://github.com/user-attachments/assets/7618bee5-66b7-484b-83c3-360e20184070)
