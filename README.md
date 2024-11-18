@@ -1,4 +1,4 @@
-# EXPERIMENT 04 INTERFACING AN 16X2 LCD DISPLAY WITHARM
+# EXPERIMENT 03 INTERFACING AN 16X2 LCD DISPLAY WITHARM
 
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
